@@ -1,6 +1,6 @@
 ## Week-1-Introduction-to-Data-Structures
 
-This week focused on introducing basic data structure concepts and their practical implementation using the C programming language. Students learned about arrays, structs, and how to use them to store and process data efficiently. A hands-on coding task involved reading and analyzing athlete performance data from a file, determining each athlete's best result, and ranking them accordingly. This exercise emphasized data grouping, sorting, and conditional ranking logic.
+In Week 1 of the course, we focused on introducing the basics of C programming and how to manage data effectively using structures and functions.
 
 ---
 
